@@ -3,3 +3,6 @@ ankit-teaching-install.o2820983
 pbmc3k_filtered_gene_bc_matrices.tar.gz
 .R*
 .D*
+.Rproj.user
+*.pdf
+*.pptx
