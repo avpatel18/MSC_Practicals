@@ -1,0 +1,6 @@
+CC=gcc
+CXX=g++
+CXX14=g++ -std=c++14
+-f=PIC
+CXX17FLAGS=-O3 -march=native -mtune=native -fPIC
+CXX17 = g++ -std=c++17
